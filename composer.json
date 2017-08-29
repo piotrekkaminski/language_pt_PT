@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_pt_pt",
+    "name": "piotrekkaminski/language_pt_pt",
     "description": "European Portuguese (português europeu) Magento2 Language Pack (pt_PT) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
